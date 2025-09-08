@@ -23,3 +23,9 @@ Feature to register recipient with name, blood group, and contact info.
 Feature to login recipient with email and password authentication.
 
 **Status: Implemented**
+
+## T-5: Login for Admin
+
+Feature to login admin with email and password authentication.
+
+**Status: Implemented**
