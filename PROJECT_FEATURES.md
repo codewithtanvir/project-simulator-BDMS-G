@@ -1,4 +1,13 @@
 # Implemented Features
+
+## T-1: Registration for Donor
+
+Feature to register donor with name, blood group, and contact info.
+
+**Status: Implemented**
+
 ## T-2: Login for Donor
+
 Feature to login donor with email and password authentication.
+
 **Status: Implemented**
