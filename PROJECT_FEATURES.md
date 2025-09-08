@@ -11,3 +11,9 @@ Feature to register donor with name, blood group, and contact info.
 Feature to login donor with email and password authentication.
 
 **Status: Implemented**
+
+## T-3: Registration for Recipient
+
+Feature to register recipient with name, blood group, and contact info.
+
+**Status: Implemented**
