@@ -17,3 +17,9 @@ Feature to login donor with email and password authentication.
 Feature to register recipient with name, blood group, and contact info.
 
 **Status: Implemented**
+
+## T-4: Login for Recipient
+
+Feature to login recipient with email and password authentication.
+
+**Status: Implemented**
